@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# traits-scrapper
+## Traits Scrapper by overthinker
 This is a simple scrapping tool that allows you to automatically download all the traits' information of a targeted NFT project.
-=======
-# Traits Scrapper by overthinker
 
 ## Introduction
 This is a simple scrapping tool that allows you to automatically download all the traits' information of a targeted NFT project. 
@@ -25,7 +22,7 @@ If you found my work useful for any of your projects, please make some donations
 
 1. Clone the project
 
-2. Install dependencies
+2. Install dependencies: npm install
 
 3. Enter the BASE URL of the NFT project you wish to scrap.
 
