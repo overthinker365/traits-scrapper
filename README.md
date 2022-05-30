@@ -7,7 +7,7 @@ All traits' information are returned in JSON format. You will need to know how t
 
 If you found my work useful for any of your projects, please make some donations to support me. I would really appreaciate that.
 
-**MetaMask address**: 0x5d3Fb9f883828bf107D778cE94cF7f5EAA996248
+**ETH address**: overthinker365.eth
 
 **Twitter username**: _overthinker365 -> contact me if you need help
 
